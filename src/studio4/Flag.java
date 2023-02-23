@@ -19,7 +19,7 @@ public class Flag {
 			   
 			}
 
-			public static void yawron() {
+			public static void zzaza() {
 			   StdDraw.setXscale(0, 15);
 			   StdDraw.setYscale(0, 16);
 		}
